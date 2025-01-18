@@ -136,54 +136,12 @@
         <!-- Menu section part end -->
 
         <!-- Testimonials section part start -->
-        <!-- <section id="Testimonials">
+        <section id="Testimonials">
             <h2 class="section-title">Testimonials</h2>
             <div class="slider">
                 <div class="slides">
                     <div class="slide">
-                        <img src="styles/image/Katha.js" alt="Anthony Thompson">
-                        <h3>Md.Tajuddin</h3>
-                        <p>"Best decaf I've tried! Smooth and <br>flavorful. Arrived promptly."</p>
-                    </div>
-                    <div class="slide">
-                        <img src="styles/images/user-2.jpg" alt="Sarah Johnson">
-                        <h3>Sarah Johnson</h3>
-                        <p>"Loved the French roast. Perfectly <br>balanced and rich. Will order again!"</p>
-                    </div>
-                    <div class="slide">
-                        <img src="styles/images/user-3.jpg" alt="James Wilson">
-                        <h3>James Wilson</h3>
-                        <p>"Great espresso blend! Smooth and bold <br>flavor. Fast shipping too!"</p>
-                    </div>
-                    <div class="slide">
-                        <img src="styles/images/user-4.jpg" alt="Emily Davis">
-                        <h3>Emily Davis</h3>
-                        <p>"Amazing aroma and taste. Best <br>coffee I've ever had!"</p>
-                    </div>
-                    <div class="slide">
-                        <img src="styles/images/user-5.jpg" alt="Michael Lee">
-                        <h3>Michael Lee</h3>
-                        <p>"Superb quality and fast delivery. <br>Highly recommend!"</p>
-                    </div>
-                </div>
-                <div class="arrows">
-                    <button class="arrow" id="prev">&#8592;</button>
-                    <button class="arrow" id="next">&#8594;</button>
-                </div>
-                <div class="dots">
-                    <span class="dot active" data-index="0"></span>
-                    <span class="dot" data-index="1"></span>
-                    <span class="dot" data-index="2"></span>
-                </div>
-            </div>
-        </section> -->
-
-        <section>
-            <h2 class="section-title">Testimonials</h2>
-            <div class="slider">
-                <div class="slides">
-                    <div class="slide">
-                        <img src="styles/images/Katha Mam.jpg" alt="Anthony Thompson">
+                        <img src="styles\images\KathaMam.jpg" alt="Anthony Thompson">
                         <h3>Ms. Shimul Dey Katha</h3>
                         <p>"Best decaf I've tried! Smooth and <br>flavorful. Arrived promptly."</p>
                     </div>
@@ -221,6 +179,55 @@
         </section>
 
 
+
+
+        <!-- <section id="Testimonials">
+    <h2 class="section-title">Testimonials</h2>
+    <div class="slider">
+        <div class="slides">
+            <div class="slide">
+                <img src="styles/images/KathaMam.jpg" alt="Anthony Thompson">
+                <h3>Ms. Shimul Dey Katha</h3>
+                <p>"Best decaf I've tried! Smooth and <br>flavorful. Arrived promptly."</p>
+            </div>
+            <div class="slide">
+                <img src="styles/images/Tajuddin.jpg" alt="Sarah Johnson">
+                <h3>Md. Tajuddin</h3>
+                <p>"Loved the French roast. Perfectly <br>balanced and rich. Will order again!"</p>
+            </div>
+            <div class="slide">
+                <img src="styles/images/Rupom.jpg" alt="James Wilson">
+                <h3>Md. Shahariyar Ahamed</h3>
+                <p>"Great espresso blend! Smooth and bold <br>flavor. Fast shipping too!"</p>
+            </div>
+            <div class="slide">
+                <img src="styles/images/Moshiur.jpg" alt="Emily Davis">
+                <h3>Md. Moshiur Rahman</h3>
+                <p>"Amazing aroma and taste. Best <br>coffee I've ever had!"</p>
+            </div>
+            <div class="slide">
+                <img src="styles/images/Nahidul.jpg" alt="Michael Lee">
+                <h3>Md. Nahidul Islam Tito</h3>
+                <p>"Superb quality and fast delivery. <br>Highly recommend!"</p>
+            </div>
+        </div>
+        <div class="arrows">
+            <button class="arrow" id="prev">&#8592;</button>
+            <button class="arrow" id="next">&#8594;</button>
+        </div>
+        <div class="dots">
+            <span class="dot active" data-index="0"></span>
+            <span class="dot" data-index="1"></span>
+            <span class="dot" data-index="2"></span>
+            <span class="dot" data-index="3"></span>
+            <span class="dot" data-index="4"></span>
+        </div>
+    </div>
+</section> -->
+
+
+
+
         <!-- Testimonials section part end -->
 
         <!-- Gallery section part start  -->
@@ -253,9 +260,9 @@
                 <div class="gallery-item">
                     <img src="styles/images/gallery-8.jpg" alt="Coffee with Croissant">
                 </div>
-                <div class="gallery-item">
+                <!-- <div class="gallery-item">
                     <img src="styles/images/gallery-9.jpg" alt="Coffee with Croissant">
-                </div>
+                </div> -->
             </div>
         </section>
     </main>
@@ -274,7 +281,7 @@
                     <p><i class="fa fa-clock"></i> Monday - Friday: 9:00 AM - 5:00 PM</p>
                     <p><i class="fa fa-clock"></i> Saturday: 10:00 AM - 3:00 PM</p>
                     <p><i class="fa fa-clock"></i> Sunday: Closed</p>
-                    <p><i class="fa fa-globe"></i> <a href="https://www.codingnepalweb.com">www.codingnepalweb.com</a>
+                    <p><i class="fa fa-globe"></i> <a href="https://www.tajuddin.com">www.tajuddin.com</a>
                     </p>
                 </div>
                 <div class="contact-form1">
@@ -292,6 +299,7 @@
 
     <!-- js link -->
     <script src="js/script.js"></script>
+   
 
     <!-- Linking Swiper script -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>

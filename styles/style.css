@@ -380,7 +380,7 @@ header {
   /* Menu section part end */
 
   /* Testimonials section part start  */
-.section-title{
+  .section-title{
     color: #000;
     align-items: center;
     text-align: center;
@@ -483,6 +483,7 @@ header {
 .dot.active {
     background: #ffcc00;
 }
+
   /* Testimonials section part end  */
 
 
